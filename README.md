@@ -1,5 +1,6 @@
 # Temperature_Forecast
 Forecasting temperature using Time-series and Deep-learning model.
+
 Co-author in a course project at University of Information Technology - VNUHCM
 
 Currently, there are numerous temperature prediction models in the world. By utilizing machine learning techniques, we can analyze historical time series data and forecast temperatures with high accuracy. This project focuses on developing a temperature forecasting system using time series models and deep learning models based on temperature data from Ho Chi Minh City.
